@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:               Lanyon
@@ -12,6 +12,12 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
+#plugins: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
+#plugins: [jekyll-paginate]
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 # About/contact
 author:
   name:              Mark Otto
