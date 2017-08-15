@@ -4,7 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+This is a project about **content centric web-technologies** which helps content-editor to focus on content rather than on designing it . This will help in enchancement of matter as required time will be given to the content .Then it is build using TravisCI for deployment .It is used to build & test software project hosted on github.   
+
+Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
