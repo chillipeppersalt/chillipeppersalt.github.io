@@ -4,29 +4,7 @@ title: About
 ---
 
 <p class="message">
-This is a project about **content centric web-technologies** which helps content-editor to focus on content rather than on designing it . This will help in enchancement of matter as required time will be given to the content .Then it is build using TravisCI for deployment .It is used to build & test software project hosted on github.   
+hi,there my name is SIMRAN and I've made this  project about content centric web-technologies which helps content-editor to focus on content rather than on designing it . This will help in enchancement of matter as required time will be given to the content . Then it is build using TravisCI for deployment .It is used to build & test software project hosted on github.The main agenda is to identify the problem that creeps during the development process as early as possible.so therfore conjuction is necessary.
 
-Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
