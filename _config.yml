@@ -24,5 +24,10 @@ author:
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
+ 
+
+
 # Custom vars
 version:             1.0.0
+# download
+githubrepo: https://github.com/chillipeppersalt/chillipeppersalt.github.io
