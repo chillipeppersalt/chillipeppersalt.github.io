@@ -33,7 +33,7 @@ Open source projects may be tested at no charge via travis-ci.org.It Shows a bui
 
 ![GITHUB AND TRAVIS CI](http://blog.biicode.com/wp-content/uploads/sites/2/2014/11/logotravis.png)
 
-                            REFRENCES
+                            REFERENCES
 
 - https://en.wikipedia.org/wiki/GitHub
 - https://jekyllrb.com/
