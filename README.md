@@ -22,8 +22,14 @@ GitHub offers both plans for private and free repositories on the same account w
 Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
 ![GITHUB AND JEKYLL](https://jekyllrb.com/img/octojekyll.png)
+
+
+
 Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.
-                            TRAVIS CI
+                          
+                              TRAVIS CI
+
+
 ![TRAVIS CI](http://dearkumar.com/wp-content/uploads/2016/08/Travis-CI-logo.jpg)
 
 
